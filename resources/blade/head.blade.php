@@ -12,7 +12,7 @@
     <title>Peter Ipung | Portfolio Development</title>
     <!-- End Identity -->
     <!-- Start Favicon -->
-    <link rel="icon" href="asset/img/peteripung-logo.png" type="image/x-icon">
+    <link rel="icon" href="public/img/peteripung-logo.png" type="image/x-icon">
     <!-- End Favicon -->
     <!-- Start CSS -->
     <?php include('head.css.blade.php'); ?>
