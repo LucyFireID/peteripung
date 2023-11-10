@@ -15,9 +15,9 @@
     <link rel="icon" href="public/img/peteripung-logo.png" type="image/x-icon">
     <!-- End Favicon -->
     <!-- Start CSS -->
-    <?php include('head.css.blade.php'); ?>
+    <?php include('public/vendor/css/css.php'); ?>
     <!-- End CSS -->
     <!-- Start Font -->
-    <?php include('head.font.blade.php'); ?>
+    <?php include('public/vendor/fonts/fonts.php'); ?>
     <!-- End Font -->
 </head>
