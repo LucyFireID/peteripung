@@ -1,0 +1,17 @@
+/* Start Body */
+body {
+    font-family: 'Mooli', sans-serif;
+}
+/* End Body */
+
+/* Start Class */
+.navbar-brand {
+    font-family: 'Mooli' sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Mooli', sans-serif;
+}
+/* End Class */
