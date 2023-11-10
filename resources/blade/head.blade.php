@@ -14,10 +14,10 @@
     <!-- Start Favicon -->
     <link rel="icon" href="public/img/peteripung-logo.png" type="image/x-icon">
     <!-- End Favicon -->
-    <!-- Start CSS -->
+    <!-- Start CSS Vendor -->
     <?php include('public/vendor/css/css.php'); ?>
     <!-- End CSS -->
-    <!-- Start Font -->
+    <!-- Start Font Vendor -->
     <?php include('public/vendor/fonts/fonts.php'); ?>
     <!-- End Font -->
 </head>
