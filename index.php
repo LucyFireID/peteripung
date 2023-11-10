@@ -5,7 +5,7 @@
 <html lang="en">
 
 <!-- Start Head -->
-<?php include('resources/blade-index/head.blade.php'); ?>
+<?php include('resources/blade/head.blade.php'); ?>
 <!-- End Head -->
 
 <!-- Start Body -->
