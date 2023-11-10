@@ -3,6 +3,6 @@
     <?php include('views/navbar.php'); ?>
     <!-- End Navbar -->
     <!-- Start Script -->
-    <?php include('body.script.blade.php'); ?>
+    <?php include('../../public/vendor/js/js.php'); ?>
     <!-- End Script -->
 </body>

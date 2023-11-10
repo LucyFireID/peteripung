@@ -9,7 +9,7 @@
 <!-- End Head -->
 
 <!-- Start Body -->
-<?php include('blade-index/body.blade.php'); ?>
+<?php include('resources/blade/body.blade.php'); ?>
 <!-- End Body -->
 
 </html>
