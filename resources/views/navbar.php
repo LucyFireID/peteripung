@@ -1,7 +1,7 @@
 <nav class="navbar fixed-top navbar-expand-lg bg-white shadow-sm">
     <div class="container">
         <a class="navbar-brand" href="">
-            <img src="asset/img/peteripung-logo.png" alt="" width="50">
+            <img src="public/img/peteripung-logo.png" alt="" width="50">
             <span><b>Peter Ipung</b></span>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
