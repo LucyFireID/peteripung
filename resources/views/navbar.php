@@ -10,10 +10,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link bi bi-house-door"href=""> Home</i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link bi bi-person" href=""> About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link bi bi-clipboard" href="#"> Resume</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link bi bi-journal-check" href="#"> Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link bi bi-hdd-rack" href="#"> Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link bi bi-envelope" href="#"> Contact</a>
                 </li>
             </ul>
         </div>
